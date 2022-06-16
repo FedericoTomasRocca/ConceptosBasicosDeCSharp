@@ -1,0 +1,8 @@
+D:\Repositorios\CursoCSharp\PrimerPrograma\bin\Debug\PrimerPrograma.exe.config
+D:\Repositorios\CursoCSharp\PrimerPrograma\bin\Debug\PrimerPrograma.exe
+D:\Repositorios\CursoCSharp\PrimerPrograma\bin\Debug\PrimerPrograma.pdb
+D:\Repositorios\CursoCSharp\PrimerPrograma\obj\Debug\PrimerPrograma.csproj.AssemblyReference.cache
+D:\Repositorios\CursoCSharp\PrimerPrograma\obj\Debug\PrimerPrograma.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\CursoCSharp\PrimerPrograma\obj\Debug\PrimerPrograma.csproj.CoreCompileInputs.cache
+D:\Repositorios\CursoCSharp\PrimerPrograma\obj\Debug\PrimerPrograma.exe
+D:\Repositorios\CursoCSharp\PrimerPrograma\obj\Debug\PrimerPrograma.pdb
